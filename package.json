@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages-deploy mountain/assets"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://kermittman.github.io/kermittman",
   "dependencies": {
     "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {
+    "gh-pages-deploy": "^0.5.1"
   }
 }
