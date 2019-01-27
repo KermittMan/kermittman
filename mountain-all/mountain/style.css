@@ -1,0 +1,26 @@
+#projects img {
+   height: auto;
+   width: auto;
+}
+
+#carousel-example-generic img {
+	height: 513px;
+	width: auto;
+	justify-content: center;
+}
+
+#logo div img{
+	filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+  filter: grayscale(100%); /* Microsoft Edge and Firefox 35+ */
+}
+
+/* Disable grayscale on hover */
+#logo div img:hover {
+  -webkit-filter: grayscale(0);
+  filter: none;
+}
+
+#skills{
+	display: inline-flex;
+}
