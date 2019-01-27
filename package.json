@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages-deploy moutain-all/mountain/"
+    "deploy": "gh-pages-deploy"
   },
   "keywords": [],
   "author": "",
