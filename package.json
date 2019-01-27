@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "gh-pages-deploy": {
-      "staticpath":"mountain/assets"
-    }
+    "deploy": "gh-pages-deploy moutain-all/mountain/"
   },
   "keywords": [],
   "author": "",
