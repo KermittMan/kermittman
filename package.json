@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://KermittMan.github.io/kermittman/mountain-all/mountain",
+  "homepage": "https://KermittMan.github.io/kermittman",
   "dependencies": {
     "gh-pages": "^2.0.1"
   },
