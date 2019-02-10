@@ -24,3 +24,7 @@
 #skills{
 	display: inline-flex;
 }
+
+.icons{
+  margin-top: 25px;
+}
